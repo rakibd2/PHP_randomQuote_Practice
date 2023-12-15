@@ -11,6 +11,5 @@ Screenshot of refresh page of random quote (output)
 
  [![Watch the video](https://img.youtube.com/vi/uW5kcrFTLlQ/hqdefault.jpg)](https://www.youtube.com/embed/uW5kcrFTLlQ)
 
-[<img src="https://img.youtube.com/vi/uW5kcrFTLlQ/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/watch?v=uW5kcrFTLlQ)
+
 
