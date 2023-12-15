@@ -1,0 +1,22 @@
+*{
+    margin: 10px 100px;
+    padding: 10px 10px;
+    font-weight: 1000;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D7F8FF;
+    border: 5px solid lightcoral;
+    border-radius: 5px;
+}
+.refresh {
+    text-align: center;
+    align-content: center;
+}
+
+button {
+    background-color: lightgreen;
+}
